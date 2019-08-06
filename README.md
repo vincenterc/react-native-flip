@@ -8,6 +8,8 @@ live demo: https://snack.expo.io/BJcUTKIQB
 
 # Usage
 
+Make sure you're on a hooks-compatible version of react (>= 16.8)
+
 ```js
 import Flip from 'react-native-flip'
 ```
