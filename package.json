@@ -1,0 +1,23 @@
+{
+  "name": "react-native-flip",
+  "version": "1.0.0",
+  "description": "A component making a flip animation for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincenterc/react-native-flip.git"
+  },
+  "keywords": [
+    "react-native",
+    "flip"
+  ],
+  "author": "<chung.menghsun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincenterc/react-native-flip/issues"
+  },
+  "homepage": "https://github.com/vincenterc/react-native-flip#readme"
+}
