@@ -14,7 +14,6 @@
     "react-native",
     "flip"
   ],
-  "author": "<chung.menghsun@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vincenterc/react-native-flip/issues"
